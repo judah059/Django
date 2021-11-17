@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% load random_num %}
+{% block content %}
+<div> Main extended by base
+    {% random_int 1 10 %}
+</div>
+{% endblock %}

@@ -1,0 +1,12 @@
+/venv/
+/.idea/
+mysite/db.sqlite3
+mysite/mysite/__init__.py
+mysite/mysite/__pycahe__/
+mysite/myapp/__pycahe__/
+mysite/myapp/__init__.py
+mysite/myapp/templatetags/__init__.py
+mysite/myapp/migrations/__init__.py
+
+
+
